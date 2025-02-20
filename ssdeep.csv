@@ -1,2 +1,3 @@
 Id,Type,Value,action
 1,SSDEEP,384:QR5fPeyWvdhA6UnZAr2FaHPbQ3ueXuiN8ua:aZPeLA6IKyuiyd,alert
+2,SSDEEP,24576:yu6J33O0c+JY5UZ+XC0kGso6FaSQTaPdpjEXTtxjTWY:0u0c++OCvkGs9FaSi2diP+Y,alert
